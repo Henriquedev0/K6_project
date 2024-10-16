@@ -1,4 +1,4 @@
-//Metricas integradas
+//Metricas integradas.
 
 
 
